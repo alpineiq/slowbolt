@@ -1,4 +1,4 @@
-module go.oneofone.dev/slowbolt
+module github.com/alpineiq/slowbolt
 
 go 1.18
 
